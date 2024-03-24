@@ -1,6 +1,8 @@
 # HTTP-Server-Latency-Benchmarker
 Multi-process dynamic server that hosts database and files and complimentary benchmarker.
 
+*Last updated on Mar 2024*
+
 ## Installation 
 To build the executables:
 
@@ -109,5 +111,3 @@ For example, you can ask it to connect with localhost on port 8888 and randomly 
 ```bash
 $ ./http-lat-bench localhost 8888 /mdb-lookup?key=yo /mdb-lookup
 ```
-
-     
